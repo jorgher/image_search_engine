@@ -14,4 +14,6 @@ $ python index.py -d datasetfolder -i index.cpickle
 
 Searching
 ---------
+````
 $ python search_external.py -d datasetfolder -i index.cpickle -q yourimage.jpg
+```
